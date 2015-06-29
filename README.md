@@ -1,6 +1,7 @@
 # simple_logon_script
 
 Requirements
+---
 - Windows XP - Windows 7 (not confirmed over windows 8)
 
 Overview
