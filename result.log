@@ -1,0 +1,3 @@
+time=[2015-06-30 오전 12:43:56],computer=[vm1.mycompany.corp],ip=[192.168.0.5],user=[vm1\admin],Administrators=[(vm1\Administrator),(vm1\test),(mycompany.corp\password123456)]
+time=[2015-06-30 오전 01:10:56],computer=[vm2.mycompany.corp],ip=[192.168.0.6],user=[vm2\admin],Administrators=[(vm2\Administrator),(vm1\joseph,(mycompany.corp\joseph)]
+time=[2015-06-30 오전 01:15:56],computer=[vm100.mycompany.corp],ip=[192.168.0.60],user=[vm100\admin],Administrators=[(vm100\Administrator),(vm100\jackson,,(mycompany.corp\jackson)]
